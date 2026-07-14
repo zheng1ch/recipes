@@ -3,6 +3,7 @@ Ingreidiens
  - onions
  - cilantro
  - salt
+ - lime
 
 Instructions:
  - mix together
